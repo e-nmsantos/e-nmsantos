@@ -14,6 +14,7 @@ I build Python tools that automate work in public administration and in my own r
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Memórias](https://github.com/e-nmsantos/albumviagens) · [live app](https://memorias-tau.vercel.app) | Travel journal and trip planner with photos, map, timeline, printable album and AI-assisted writing via LLM APIs (Gemini, OpenAI, Groq) | TypeScript · React · Supabase |
 | [CoopGest](https://github.com/e-nmsantos/CoopGest) | Covers the full lifecycle of a development cooperation project, using reference methodologies (PRAG, OECD/DAC) | TypeScript |
 | [guia-turistico](https://github.com/e-nmsantos/guia-turistico) | Interactive trilingual (EN/ES/PT) web app for professional tour guides, with audio pronunciation | Python |
 
